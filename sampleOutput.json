@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 32,
+    "articles": [
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": null,
+        "title": "Search for Maui wildfire victims continues as death toll rises to 114 - CBS News",
+        "description": "Several hundred federal search and rescue personnel are using dozens of cadaver dogs to comb the Lahaina burn area for human remains.",
+        "url": "https://www.cbsnews.com/news/search-maui-wildfire-victims-intensifies-lahaina-death-toll-rises/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/19/a52c4c07-0675-4196-adb7-e6036988ff57/thumbnail/1200x630/da9e7ef7ebfa8ac291c9562417f51860/gettyimages-1608996249.jpg?v=0b4ae642db52799a178d90d83603a9dc",
+        "publishedAt": "2023-08-19T14:02:00Z",
+        "content": "Maui officials confirmed Friday that the wildfire death toll has risen to at least 114, while the search for hundreds of missing people continued in the historic coastal port city of Lahaina, which w… [+7213 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Chris Pandolfo",
+        "title": "Florida officials report five deaths from 'flesh-eating' bacteria in Tampa Bay since January - Fox News",
+        "description": "Five people are confirmed dead, and 26 cases of flesh-eating vibrio vulnificus bacterial infections have been reported in Florida since January, health officials said.",
+        "url": "https://www.foxnews.com/us/florida-officials-report-5-deaths-flesh-eating-bacteria-tampa-bay-january",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/tampa-bay-beach.jpg",
+        "publishedAt": "2023-08-19T13:31:00Z",
+        "content": "Five people are confirmed dead in the Tampa Bay area because of a flesh-eating bacterium known to lurk at beaches, Florida officials reported.\r\nAccording to Florida Health, the vibrio vulnificus bact… [+3402 chars]"
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Chris Livesay, Kerry Breen, Eleanor Tuohy",
+        "title": "Italian official calls tourists \"vandals\" after viral incidents: \"No respect for our cultural heritage\" - CBS News",
+        "description": "Viral incidents in Rome, Paris, Venice and other cities has garnered negative attention and expensive fines for tourists.",
+        "url": "https://www.cbsnews.com/news/italian-official-calls-some-tourists-vandals-after-months-of-viral-incidents-no-respect-for-our-cultural-heritage/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/19/1b489d2e-161e-4ac7-aec3-6acd6434697d/thumbnail/1200x630/98b3b0b8828f34a3cb24db18f5f4e5ab/0819-satmo-europeantravelwoes-livesay-2220729-640x360.jpg?v=0b4ae642db52799a178d90d83603a9dc",
+        "publishedAt": "2023-08-19T12:39:00Z",
+        "content": "In Rome, a tourist scaled the baroque masterpiece that is the Trevi Fountain to fill up her water bottle just months after a British man carved his and his girlfriends' initials into the Colosseum, a… [+1828 chars]"
+      },
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": "Adrian Wojnarowski, Ramona Shelburne",
+        "title": "Sources - NBA launches inquiry into James Harden's situation - ESPN - ESPN",
+        "description": "The NBA has launched an inquiry into the circumstances surrounding Philadelphia 76ers star James Harden's public admonishment of the franchise's president of basketball operations, Daryl Morey, sources told ESPN.",
+        "url": "https://www.espn.com/nba/story/_/id/38219710/sources-nba-launches-inquiry-james-harden-situation",
+        "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0814%2Fr1210547_1296x729_16%2D9.jpg",
+        "publishedAt": "2023-08-19T12:38:00Z",
+        "content": "Aug 19, 2023, 08:38 AM ET\r\nThe NBA has launched an inquiry into the circumstances surroundingPhiladelphia 76ersstarJames Harden's public admonishment of the franchise's president of basketball operat… [+4318 chars]"
+      }
+    ]
+}
